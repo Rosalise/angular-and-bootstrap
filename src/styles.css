@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+html {
+    font-size: 62.5%;
+    background-color: rgba(253, 240, 225, 0.932);
+}
+
+.container {
+    font-size: 2rem;
+}
